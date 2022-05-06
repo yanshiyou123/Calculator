@@ -1,8 +1,6 @@
 # Calculator
 A basic Calculator
 
-Screenshot:
-
-
+### Screenshot:
 
 ![alt text](https://github.com/yanshiyou123/Calculator/blob/main/img/Calculator.png)
